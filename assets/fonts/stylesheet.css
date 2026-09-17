@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Founders Grotesk Condensed';
+    src: url('FoundersGroteskCondensed-Medium.eot');
+    src: url('FoundersGroteskCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('FoundersGroteskCondensed-Medium.woff') format('woff'),
+        url('FoundersGroteskCondensed-Medium.ttf') format('truetype'),
+        url('FoundersGroteskCondensed-Medium.svg#FoundersGroteskCondensed-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Founders Grotesk Condensed';
+    src: url('FoundersGroteskCondensed-Regular.eot');
+    src: url('FoundersGroteskCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FoundersGroteskCondensed-Regular.woff') format('woff'),
+        url('FoundersGroteskCondensed-Regular.ttf') format('truetype'),
+        url('FoundersGroteskCondensed-Regular.svg#FoundersGroteskCondensed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Founders Grotesk Condensed';
+    src: url('FoundersGroteskCondensed-Bold.eot');
+    src: url('FoundersGroteskCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FoundersGroteskCondensed-Bold.woff') format('woff'),
+        url('FoundersGroteskCondensed-Bold.ttf') format('truetype'),
+        url('FoundersGroteskCondensed-Bold.svg#FoundersGroteskCondensed-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Founders Grotesk Condensed';
+    src: url('FoundersGroteskCondensed-Semibold.eot');
+    src: url('FoundersGroteskCondensed-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('FoundersGroteskCondensed-Semibold.woff') format('woff'),
+        url('FoundersGroteskCondensed-Semibold.ttf') format('truetype'),
+        url('FoundersGroteskCondensed-Semibold.svg#FoundersGroteskCondensed-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
